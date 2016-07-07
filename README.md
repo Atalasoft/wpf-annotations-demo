@@ -2,6 +2,8 @@
 # Atalasoft WPF Annotations demo application
 This demo application shows functionality of Atalasoft WPF Annotate Viewer control that is part of [DotImage](https://www.atalasoft.com/Products/DotImage) product. 
 
+![](https://atalasoft.visualstudio.com/_apis/public/build/definitions/789e0a22-6f04-4fac-91a5-ccc70df2a1f1/4/badge)
+
 ## Description
 
 TBD
